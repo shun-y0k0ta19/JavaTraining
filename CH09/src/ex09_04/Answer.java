@@ -1,0 +1,19 @@
+package ex09_04;
+
+public class Answer {
+/*
+6
+11
+false
+false
+1.35
+NaN
+Infinity
+false
+-1
+-9223372036854775804
+50
+1720.0
+11
+ */
+}
