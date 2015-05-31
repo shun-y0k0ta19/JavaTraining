@@ -4,7 +4,10 @@ public class Array {
 	public void test(){
 		int[] a = new int[5];
 		int[] b = null;
-		System.out.println(b);
+		if(b == null){
+			System.out.println("b = null");
+		}
+		//System.out.println(b);
 		for(int n : a){
 			System.out.print(n);
 		}
